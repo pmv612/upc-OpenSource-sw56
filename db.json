@@ -1,0 +1,13 @@
+{
+  "profiles": [],
+  "users": [],
+  "students": [],
+  "courses": [
+    {
+      "id": 1,
+      "title": "Sample",
+      "description": "Sample Course"
+    }
+  ],
+  "enrollments": []
+}
